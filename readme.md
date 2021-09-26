@@ -49,7 +49,11 @@ Following are some awesome features offered by this bot:-
 
 ## ***Heroku***
 ### For Heroku users New repo will come soon (This repo will not work on heroku)
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/kyawwa/TorToolkit-Telegram"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
 [![Deploy](https://telegra.ph/file/e7d224c45cf1d106a28fa.png)](https://telegra.ph/Heroku-TorToolkit-01-18)
+
+Public
+fo
 
 ## ***Zeet***
 According to me, this platform provides resources that are enough for a genuine user and by default prevents Abuse:
